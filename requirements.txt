@@ -1,7 +1,15 @@
+# Python version
+python>=3.8
+
+# Core libraries
 numpy
 pandas
+
+# Visualization
 matplotlib
 seaborn
+
+# Machine Learning
 scikit-learn
 imbalanced-learn
 xgboost
